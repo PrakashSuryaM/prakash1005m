@@ -16,4 +16,7 @@ public class Priority {
 	private void end() {
 		System.out.println("End");
 	}
+	private void basic() {
+		System.out.println("Basic");
+	}
 }
